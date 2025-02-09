@@ -17,10 +17,6 @@ a {
 .carousel-caption {
   background: rgba(0, 0, 0, 0.5);
 }
-.container {
-  border-bottom: 1px solid #eef0f2;
-  border-top: 1px solid #eef0f2;
-}
 .bg-footer {
   background-color: #edebcd;
 }
@@ -37,14 +33,17 @@ footer a {
   color: white !important;
 }
 .heading {
-  color: #e3b78c !important ;
+  color: #423e37 !important ;
   font-weight: bold;
   font-size: 2rem;
 }
 .text-heading {
-  color: #e3b78c !important ;
+  color: #423e37 !important ;
   font-weight: bold;
   font-size: 2rem;
+}
+.ambition {
+  line-height: 1.4 rem;
 }
 .text-align {
   font-size: 1.3rem;
@@ -54,6 +53,6 @@ footer a {
   line-height: 1.7;
   text-align: left;
 }
-footer .container {
-  border: none !important;
+.icon a {
+  color: black !important;
 }
