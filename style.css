@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "PT Sans", serif;
+}
+.bg-navbar {
+  background-color: #423e37;
+}
+a {
+  color: #edebcd !important;
+}
+.active {
+  font-weight: bold;
+  border-bottom: 2px solid white;
+}
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.5);
+}
+.container {
+  border-bottom: 1px solid #eef0f2;
+}
+.bg-footer {
+  background-color: #edebcd;
+}
+footer a {
+  color: #e3b23c !important;
+}
