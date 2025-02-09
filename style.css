@@ -19,10 +19,41 @@ a {
 }
 .container {
   border-bottom: 1px solid #eef0f2;
+  border-top: 1px solid #eef0f2;
 }
 .bg-footer {
   background-color: #edebcd;
 }
 footer a {
   color: #e3b23c !important;
+}
+.text-secondary {
+  color: #e3b23c !important;
+}
+.btn {
+  color: blue !important;
+}
+.btn:hover {
+  color: white !important;
+}
+.heading {
+  color: #e3b78c !important ;
+  font-weight: bold;
+  font-size: 2rem;
+}
+.text-heading {
+  color: #e3b78c !important ;
+  font-weight: bold;
+  font-size: 2rem;
+}
+.text-align {
+  font-size: 1.3rem;
+}
+.text-goal {
+  font-size: 1.1 rem;
+  line-height: 1.7;
+  text-align: left;
+}
+footer .container {
+  border: none !important;
 }
